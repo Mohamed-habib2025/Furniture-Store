@@ -1,0 +1,6 @@
+export const CategoryFilters = ["Furniture", "Lighting", "Decor"]
+export const PriceFilters = ["$0 - $100", "$100 - $300", "$300+"]
+export const AvailabilityFilters = ["In Stock", "Out Of Stock"]
+export const MaterialFilters = ["Wood", "Metal", "Fabric", "Leather", "Glass", "Rattan"]
+export const RoomTypeFilters = ["Living Room", "Bedroom", "Dining Room", "Office", "Kids Room", "Kitchen"]
+export const StyleFilters = ["Modern", "Traditional", "Mid-Century", "Bohemian", "Rustic", "Minimalist", "Industrial", "Scandinavian"]
