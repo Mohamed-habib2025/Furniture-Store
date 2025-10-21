@@ -16,7 +16,7 @@ const Navbar = () => {
   const wishlistitemscount = wishlistitems.length
 
   const Links = [
-    { item: "Home", href: "/" },
+    { item: "Home", href: "/home" },
     { item: "New Arrivals", href: "/#new-arrivals" },
     { item: "Top Sellers", href: "/#top-sellers" },
     { item: "Products", href: "/products" },
