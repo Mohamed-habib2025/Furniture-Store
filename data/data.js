@@ -51,7 +51,7 @@ export const products = [
   },
   {
     id: 5,
-    image: "/images/chair.jpg",
+    image: "/images/Chair.jpg",
     text: "Armchair",
     price: 399,
     category: "Furniture",
@@ -99,7 +99,7 @@ export const products = [
   },
   {
     id: 9,
-    image: "/images/kitchen-island.jpg",
+    image: "/images/Kitchen-island.jpg",
     text: "Kitchen Island",
     price: 349,
     category: "Furniture",
