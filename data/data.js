@@ -1,4 +1,3 @@
-// data/shopData.js
 
 export const products = [
   {
@@ -99,7 +98,7 @@ export const products = [
   },
   {
     id: 9,
-    image: "/images/Kitchen-island.jpg",
+    image: "/images/Kitchen-Island.jpg",
     text: "Kitchen Island",
     price: 349,
     category: "Furniture",
