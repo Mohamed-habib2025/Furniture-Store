@@ -1,5 +1,5 @@
 import React from 'react'
-import { products } from "../public/data/data.json"
+import { products } from "../data/data"
 import CardCarousel from './CardCarousel'
 
 const NewArrivals = () => {

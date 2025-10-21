@@ -1,6 +1,6 @@
 "use client"
 import React from 'react'
-import { categories } from "../public/data/data.json"
+import { categories } from "../data/data"
 import Image from 'next/image'
 import Link from 'next/link'
 

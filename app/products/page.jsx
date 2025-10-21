@@ -1,6 +1,6 @@
 "use client"
 import React, { useState, useEffect } from "react";
-import { products } from "../../public/data/data.json"
+import { products } from "../../data/data"
 import ProductCard from '@/Components/ProductCard'
 import BtnFilter from '@/Components/BtnFilter'
 import OptionsFilters from '@/Components/OptionsFilters'
